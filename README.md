@@ -240,4 +240,4 @@ This repository serves as the official landing page for XePlayer. The software i
 **Get the most recent version of XePlayer today!**
 
 ---
-**Last updated:** 2026-10-03 07:29:09 UTC
+**Last updated:** 2026-10-03 12:58:22 UTC
